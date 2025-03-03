@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al3Gr
 - 👀 I’m interested in Automotive tecnologies and AI
-- 🌱 I’m majoring in computer engineering 💻
+- 🌱 I have both Master and Bachelor's Degree in computer engineering 💻
 
 
 <!---
